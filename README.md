@@ -1,4 +1,4 @@
-Olá! Eu sou a Carla Franciele 
+Olá! Eu sou a Carla Franciele 😀
 
 🖥 Hoje trabalho com Service Desk
 
@@ -33,6 +33,6 @@ Olá! Eu sou a Carla Franciele
   <a href="https://www.linkedin.com/in/carla-franciele-silva-2a23731aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-
+![Snake animation](https://github.com/cfsilva3/cfsilva3/blob/output/github-contribution-grid-snake.svg)
   
   </div>
