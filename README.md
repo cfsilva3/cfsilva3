@@ -1,9 +1,10 @@
-##
-Olá! Eu sou a Carla Franciele 😀
 
-🖥 Hoje trabalho com Service Desk
+                                                        😀 Olá! Eu sou a Carla Franciele! 
+                                                👩‍💻 Estudante de Cybersecurity, Kali Linux, Debian...
+                                                      🖥 Hoje atuo como Analista Service Desk
 
-👩‍💻 Estudando Cybersecurity, Kali Linux, Debian...
+                                                                                                                                                             
+
 
 ##
 
@@ -38,3 +39,8 @@ Olá! Eu sou a Carla Franciele 😀
 ![Snake animation](https://github.com/cfsilva3/cfsilva3/blob/output/github-contribution-grid-snake.svg)
   
   </div>
+  
+  
+<div>
+  <img src=https://user-images.githubusercontent.com/61276577/182972750-9aa1100a-93f3-4ab8-8625-cd911b29a2a2.jpg width= "150px" /> 
+</div>
