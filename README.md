@@ -1,6 +1,6 @@
 
                                                         😀 Olá! Eu sou a Carla Franciele! 
-                             👩‍💻 Estudante de Cybersecurity, apaixonada por histórias sobre guerra e astronomia! 🌙✨
+                         👩‍💻 Estudante de Cybersecurity, apaixonada por histórias sobre guerra e astronomia! 🌙✨
                                                       🖥 Hoje atuo como Analista Service Desk
 
                                                                                                                                                              
