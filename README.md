@@ -1,7 +1,13 @@
 
-                                                        😀 Olá! Eu sou a Carla Franciele! 
-                         👩‍💻 Estudante de Cybersecurity, apaixonada por histórias sobre guerra e astronomia! 🌙✨
-                                                      🖥 Hoje atuo como Analista Service Desk
+                                                                                  😀 Olá! Eu sou a Carla Franciele! 
+                                                       👩‍💻 Estudante de Cybersecurity, apaixonada por histórias sobre guerra e astronomia! 🌙✨
+                                                🖥 Profissional de Segurança da Informação com mais de 5 anos de experiência atuando na área de TI. 
+                      Tenho vasto conhecimento em gestão e mitigação de riscos e vulnerabilidades, investigando incidentes e implementando medidas de controle. 
+           Assertiva e apta para a gestão de problemas em sistemas, garantindo a segurança e integridade de dados, informações e arquivos confidenciais da empresa. 
+    Com 3 anos de experiência no horário noturno, focado em casos críticos, e 5 anos de experiência em home office com escritório próprio para entregar a demanda da melhor forma. 
+    Tecnóloga em análise e desenvolvimento de sistemas e pós graduada em cybersecurity, sempre em busca de mais conhecimento, obtive certificações importantes como NSE1, NSE2, NE3 e certificações Cisco e Fortinet. 
+    Nas horas vagas tenho como hobby jogos, com o conhecimento básico de redes montei um pc gamer e a rede de cabeada de casa (sempre de olho na questão de segurança), costumo revezar em assistir séries sobre ficção e viagem no tempo, assistir animes ou jogar jogos de sobrevivência e construção onde me forço a pensar em estratégias. 
+                                                                                      Sejam bem vindos ao meu perfil! 🤗
 
                                                                                                                                                              
 
